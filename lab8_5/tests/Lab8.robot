@@ -13,5 +13,5 @@ Open Browser To Login Page
 
 
 *** Test Cases ***
-    Open Browser 
-        Open Browser To Login Page
+Open Browser 
+    Open Browser To Login Page
